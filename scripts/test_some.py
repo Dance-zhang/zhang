@@ -8,3 +8,6 @@ class TestA():
 
     def test_2(self):
         assert 0
+        
+    def test_3(self):
+        assert 0
